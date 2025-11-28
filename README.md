@@ -6,4 +6,5 @@ Group Members:
   Zymil Niño Mozol (Leader)
   Hanz Christian B. Dagoc (Documenter)
 
+Technology Stack: 
 
